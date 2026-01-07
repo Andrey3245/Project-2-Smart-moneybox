@@ -22,15 +22,17 @@
 
 ## Устранение помех
 
+![3](https://github.com/user-attachments/assets/dce3d189-ba2f-46eb-b301-966bd0b2f0eb)
 
-[3.bmp](https://github.com/user-attachments/files/24483418/3.bmp)
-
-[2.bmp](https://github.com/user-attachments/files/24483420/2.bmp)
+![2](https://github.com/user-attachments/assets/e60fa110-1b18-41c7-b6f8-fce23d79c2c7)
 
 
 ## Печатная плата
-<img width="1310" height="1152" alt="top" src="https://github.com/user-attachments/assets/44633c08-dcfc-43fd-8681-757adc4c2d19" />
-<img width="1308" height="1150" alt="bottom" src="https://github.com/user-attachments/assets/929d1077-dbf9-4ac6-8c35-c31d32ce7ea3" />
+<img width="1347" height="1183" alt="top" src="https://github.com/user-attachments/assets/b246ec95-a63a-44dc-9f9e-05360a5b189f" />
+
+<img width="1341" height="1178" alt="bottom" src="https://github.com/user-attachments/assets/4d0040cf-17e4-4a49-b0c1-1325dcd3dcb2" />
+
+
 
 
 
@@ -38,9 +40,9 @@
 ## Готовое устройство на печатной плате
 Плата изготовлена вручную с помощью фоторезистивного метода. Для изоляции токопроводящих дорожек на обе стороны платы нанесена паяльная маска, сформированная методом УФ-экспонирования через фотошаблон.
 
-![IMG_7614](https://github.com/user-attachments/assets/79594854-b17b-4d22-b8c2-b8bacfff977c)
-![IMG_7616](https://github.com/user-attachments/assets/88f3a9ad-155d-4de6-8403-eab665cecf64)
 
+![IMG_7616](https://github.com/user-attachments/assets/88f3a9ad-155d-4de6-8403-eab665cecf64)
+![IMG_7614](https://github.com/user-attachments/assets/79594854-b17b-4d22-b8c2-b8bacfff977c)
 https://github.com/user-attachments/assets/9198018c-6804-4186-870c-54266f6b4bd9
 
 
